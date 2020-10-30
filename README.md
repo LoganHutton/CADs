@@ -10,4 +10,4 @@
 - Miscellanous personal projects 
 
 ## Rover contributions 
--Finished contributions to the rover team
+- Finished contributions to the rover team
